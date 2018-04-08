@@ -1,16 +1,8 @@
-<<<<<<< HEAD
 {
 	"autoload": {
 		"psr-4": {
 			"App\\": "App"
 		}
 	}
-=======
-{
-	"autoload": {
-		"psr-4": {
-			"App\\": "App"
-		}
-	}
->>>>>>> 13a56c9b89ef6fe2a30f7acdd89dcdd09ad19f1b
+
 }
