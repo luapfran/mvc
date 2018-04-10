@@ -1,7 +1,7 @@
 <?php
  
-use App\App;
-use App\Lib\Erro;
+use App/App;
+use App/Lib/Erro;
 
 session_start();
 
@@ -16,4 +16,5 @@ try {
    $oError = new Erro($e);
    $oError->render();
 }
+
 ?>
